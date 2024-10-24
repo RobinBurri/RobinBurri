@@ -5,10 +5,10 @@
 
 ## I'm a Student at 42 Lausanne, Switzerland.
 
-- 🔭 I am a cadet at 42 school since october 2021!
+- 🔭 I am a student at 42 school since october 2021!
 - 🌱 I’m currently learning Web Development and Wev Security
 - 👯 I’m looking to collaborate with other students
-- 🥅 2023 Goals: Landing my first internship.
+- 🥅 2024 Goals: Landing my second internship.
 
 <!-- ### Connect with me:
 
